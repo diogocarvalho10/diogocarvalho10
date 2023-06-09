@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Diogo and I'm a Junior Full Stack Developer!
 - 👀 I’m interested in learning new technologies 
-- 🌱 I’m currently learning Spring Boot and Angular
+- 🌱 I’m currently learning SpringBoot and Angular
 - 📫 How to reach me https://www.linkedin.com/in/diogocarvalho10/
 
 <!---
